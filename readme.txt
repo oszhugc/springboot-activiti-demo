@@ -1,6 +1,6 @@
 
 
-项目包含技术点
+## 项目包含技术点
 1、spring boot 2.1.6 整合activiti6.0
 2、整合在线流程设计器activiti modoler
 3、全局异常处理
@@ -10,3 +10,6 @@
 7、mybatis generator自动生成代码插件
 8、日志使用logback
 9、整合swagger
+
+## 对应博客
+https://blog.csdn.net/wyj180/article/details/102929915?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1
